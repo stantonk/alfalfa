@@ -1,1 +1,7 @@
 A PyCharm color scheme for Python that doesn't make my eyes want to bleed.
+
+1. Put Alfalfa.xml in ~/Library/Preferences/PyCharm20/colors
+2. Restart PyCharm
+3. Go to PyCharm | Preferences | Editor | Color & Fonts
+4. Select Alfalfa
+
